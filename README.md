@@ -12,6 +12,7 @@ You should see the following things in this repository:
 
 * pa2.pdf: the instruction for this programming assignment
 * report.pdf: the report for this programming assignment
+* code.ipynb: the Jupyter Notebook
 * code.zip: a zip file contains the Jupyter Notebook
 
 You should see the following things in the shared Google Drive link:
