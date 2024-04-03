@@ -41,7 +41,7 @@ Below are some sample images after performing image style transfer:
 
 ---
 
-Below are some sample of the augmented images (also after performing image style transfer)
+Below are some sample of the augmented images (also after performing image style transfer):
 
 ![sample i](https://github.com/Vincent-Chan/Image-Style-Transfer-and-Image-Classification-Using-Part-of-the-VGG19-Model-Architecture/blob/main/some%20sample%20augmented%20images%20after%20style%20transfer/AUGMENT_pic_314_MIX_pic_1825_(dog%2Ccartoon).jpg)
 
