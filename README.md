@@ -4,6 +4,8 @@ This is my individual programming assignment 2 of COMP4211 Machine Learning in H
 
 This programming assignment involves image style transfer, image augmentation and image classification.
 
+The link to the Google Drive that contains all the necessary training dataset, testing dataset, image for performing style transfer, image for image classification and the pre-trained weights of VGG19 model: https://drive.google.com/drive/folders/1_5LoxbmWDKPKi91Z_HmQn4TFoTtXnxQM?usp=sharing
+
 You should see the following things:
 
 * pa2.pdf: the instruction for this programming assignment
